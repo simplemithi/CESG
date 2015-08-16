@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">CESG</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_Help">Help</string>
+    <string name="action_About">About</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_terms">terms</string>
+    <string name="title_activity_loans">loans</string>
+    <string name="title_activity_contact">contact</string>
+    <string name="title_activity_loan_details">loanDetails</string>
+    <string name="title_activity_term_definition">termDefinition</string>
+    <string name="title_activity_help_menu">HelpMenu</string>
+    <string name="title_activity_about_menu">AboutMenu</string>
+    <string name="contactDev">Contact the Developer</string>
+    <string name="Loan">Loans</string>
+    <string name="Terms">Terms</string>
+    <string name="title">Annual Canada Education Savings Grants (CESG)</string>
+    <string name="AboutMenuInfo">This app is created by Mithila DeSilva. V:1.0.0 The main purpose of this application is to provide a clear understanding of how much money has been granted for students by the government all over Canada. All the information displayed here are legit information taken from the open.canada.ca website. If you believe the information seems to appear incorrectly please contact me and I would be glad to look into the matter. Also your feedback\'s and recommendations are welcomed.</string>
+    <string name="cntctMsg">Please feel free to inform me the positives as well as the negatives about this app. Thank you!</string>
+    <string name="usrInputMsg">Your Message</string>
+    <string name="sendMail">Sened e-Mail</string>
+    <string name="HelpMenuInfo">What you should know: This app provides two options: 1. Terms, 2. Loans, 3. Contact. Terms option lists all the terms that are important to this app/field. Loans option displays the list of provinces that can be selected to find out the loans granted per year since 2004. The third option, Contact is built for you to get in touch with me in any regards. (Please allow 24 hours for a reply)</string>
+    <string name="LoanDetailTitle">Loans Granted (in $millions)</string>
+    <string name="TermDefTitle">Term Definition</string>
+    <string name="definition">New Text</string>
+    <string name="termsHomeBtn">Home</string>
+    <string name="termsTitle">Terms and Services</string>
+</resources>

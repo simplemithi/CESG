@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CESG.French</string>
+
+    <string name="hello_world">Bonjour le monde!</string>
+    <string name="action_Help">Aidez-moi</string>
+    <string name="action_About">Sur</string>
+    <string name="action_settings">paramètres</string>
+    <string name="title_activity_terms">termes</string>
+    <string name="title_activity_loans">loans.French</string>
+    <string name="title_activity_contact">prêts</string>
+    <string name="title_activity_loan_details">Détails prêt</string>
+    <string name="title_activity_term_definition">Définition terme</string>
+    <string name="title_activity_help_menu">Menu Aide</string>
+    <string name="title_activity_about_menu">À propos Menu</string>
+    <string name="contactDev">Contactez le promoteur</string>
+    <string name="Loan">Prêts</string>
+    <string name="Terms">Termes</string>
+    <string name="title">Subventions Annuelles d épargne-études (CESG)</string>
+    <string name="AboutMenuInfo">Cette application est créée par Mithila DeSilva . V : 1.0.0 Le but principal de cette application est de fournir une compréhension claire de combien d argent a été accordé pour les étudiants par le gouvernement partout au Canada . Toutes les informations affichées ici sont des informations légitime tirée du site Web de open.canada.ca . Si vous croyez que l  information semble apparaître correctement s il vous plaît contactez-moi et je serais heureux de se pencher sur la question . Aussi vos commentaires   s et les recommandations sont les bienvenus.</string>
+    <string name="cntctMsg">Sil vous plaît sentir libre pour me faire connaître les aspects positifs ainsi que les aspects négatifs de cette application . Merci!</string>
+    <string name="usrInputMsg">Ton message</string>
+    <string name="sendMail">Envoyer un e -mail</string>
+    <string name="HelpMenuInfo">Ce que vous devez savoir: Cette application offre deux options : 1. Conditions , 2. Prêts , 3. contacter . Conditions option répertorie tous les termes qui sont importants pour l application  domaine. Prêts option affiche la liste des provinces qui peuvent être sélectionnés à savoir les prêts accordés par an depuis 2004. La troisième option , contacter est construit pour vous d entrer en contact avec moi dans tout ce qui concerne . ( S il vous plaît permettre à 24 heures pour une réponse )</string>
+    <string name="LoanDetailTitle">Les prêts accordés ( en millions de dollars )</string>
+    <string name="TermDefTitle">Terme Définition</string>
+    <string name="definition">Nouveau texte</string>
+    <string name="termsHomeBtn">Accueil</string>
+    <string name="termsTitle">Conditions et Services</string>
+</resources>
